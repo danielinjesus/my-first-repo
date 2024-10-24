@@ -1,4 +1,4 @@
-![](./src/logo1.png)
+![test logo is](./src/logo1.png)
 # my-first-repo
 이 저장소는 git 연습용 저장소 입니다.
 ---
