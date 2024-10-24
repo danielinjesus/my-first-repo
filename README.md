@@ -21,6 +21,6 @@
 $python main.py
 ```
 ### Credit
-- @DanielinLove
+- [@DanielinLove](mailto:cmsg_hbg2@naver.com)
 ___
 
